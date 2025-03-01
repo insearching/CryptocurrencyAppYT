@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation.theme.coin_detail
+package com.plcoding.cryptocurrencyappyt.presentation.coin_detail
 
 import com.plcoding.cryptocurrencyappyt.domain.model.CoinDetail
 

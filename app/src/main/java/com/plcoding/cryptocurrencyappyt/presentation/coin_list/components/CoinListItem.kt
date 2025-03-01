@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation.theme.coin_list.components
+package com.plcoding.cryptocurrencyappyt.presentation.coin_list.components
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement

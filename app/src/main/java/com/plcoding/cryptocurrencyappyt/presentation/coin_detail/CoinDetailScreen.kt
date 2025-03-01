@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation.theme.coin_detail
+package com.plcoding.cryptocurrencyappyt.presentation.coin_detail
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -16,8 +16,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.google.accompanist.flowlayout.FlowRow
-import com.plcoding.cryptocurrencyappyt.presentation.theme.coin_detail.components.CoinTag
-import com.plcoding.cryptocurrencyappyt.presentation.theme.coin_detail.components.TeamListItem
+import com.plcoding.cryptocurrencyappyt.presentation.coin_detail.components.CoinTag
+import com.plcoding.cryptocurrencyappyt.presentation.coin_detail.components.TeamListItem
 
 
 @Composable

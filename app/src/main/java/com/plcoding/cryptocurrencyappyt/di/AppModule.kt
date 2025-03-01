@@ -18,7 +18,7 @@ object AppModule {
 
     @Provides
     @Singleton
-    fun providePaprikaApo(): CoinPaprikaApi {
+    fun providePaprikaApi(): CoinPaprikaApi {
         return Retrofit.Builder()
             .baseUrl(Constants.BASE_URL)
             .addConverterFactory(GsonConverterFactory.create())

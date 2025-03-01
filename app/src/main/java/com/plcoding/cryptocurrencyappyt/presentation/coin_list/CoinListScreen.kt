@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.presentation.theme.coin_list.components
+package com.plcoding.cryptocurrencyappyt.presentation.coin_list
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
@@ -17,7 +17,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import com.plcoding.cryptocurrencyappyt.presentation.Screen
-import com.plcoding.cryptocurrencyappyt.presentation.theme.coin_list.CoinListViewModel
+import com.plcoding.cryptocurrencyappyt.presentation.coin_list.components.CoinListItem
 
 @Composable
 fun CoinListScreen(
